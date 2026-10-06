@@ -10,3 +10,4 @@
   from = "/tjenester/softwash/"
   to = "/fasadevask/"
   status = 301
+  force = true
